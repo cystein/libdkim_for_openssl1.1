@@ -11,13 +11,7 @@ in FreeBSD operating system.
   o initial release
 
 
-This library implements DKIM (DomainKeys Identified Mail).  The
-internet drafts are available here:
-
-http://www.ietf.org/internet-drafts/draft-allman-dkim-base-01.txt
-http://www.ietf.org/internet-drafts/draft-allman-dkim-ssp-01.txt
-http://www.ietf.org/internet-drafts/draft-fenton-dkim-threats-01.txt
-
+This library implements DKIM (DomainKeys Identified Mail).
 
 Build Instructions
 ------------------
@@ -25,6 +19,7 @@ Build Instructions
 You must have OpenSSL and gmake installed and built.
 
 For FreeBSD,
+
   - cd ~/libdkim-patched/src
   - Run "gmake"
 
