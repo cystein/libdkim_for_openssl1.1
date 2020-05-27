@@ -32,5 +32,5 @@ For FreeBSD,
 Usage
 -------
 
-See https://www.syslogs.org/qmail-giden-postalar-icin-dkim-implementasyonu/
+For Turkish users, see https://www.syslogs.org/qmail-giden-postalar-icin-dkim-implementasyonu/
 for libdkim library usage on FreeBSD+Qmail, Author Cagri Ersen.
